@@ -1,0 +1,15 @@
+F:\Bkp.BValle\BValle\Testando Dotnet\bin\Debug\net6.0\Testando Dotnet.exe
+F:\Bkp.BValle\BValle\Testando Dotnet\bin\Debug\net6.0\Testando Dotnet.deps.json
+F:\Bkp.BValle\BValle\Testando Dotnet\bin\Debug\net6.0\Testando Dotnet.runtimeconfig.json
+F:\Bkp.BValle\BValle\Testando Dotnet\bin\Debug\net6.0\Testando Dotnet.dll
+F:\Bkp.BValle\BValle\Testando Dotnet\bin\Debug\net6.0\ref\Testando Dotnet.dll
+F:\Bkp.BValle\BValle\Testando Dotnet\bin\Debug\net6.0\Testando Dotnet.pdb
+F:\Bkp.BValle\BValle\Testando Dotnet\obj\Debug\net6.0\Testando Dotnet.csproj.AssemblyReference.cache
+F:\Bkp.BValle\BValle\Testando Dotnet\obj\Debug\net6.0\Testando Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bkp.BValle\BValle\Testando Dotnet\obj\Debug\net6.0\Testando Dotnet.AssemblyInfoInputs.cache
+F:\Bkp.BValle\BValle\Testando Dotnet\obj\Debug\net6.0\Testando Dotnet.AssemblyInfo.cs
+F:\Bkp.BValle\BValle\Testando Dotnet\obj\Debug\net6.0\Testando Dotnet.csproj.CoreCompileInputs.cache
+F:\Bkp.BValle\BValle\Testando Dotnet\obj\Debug\net6.0\Testando Dotnet.dll
+F:\Bkp.BValle\BValle\Testando Dotnet\obj\Debug\net6.0\ref\Testando Dotnet.dll
+F:\Bkp.BValle\BValle\Testando Dotnet\obj\Debug\net6.0\Testando Dotnet.pdb
+F:\Bkp.BValle\BValle\Testando Dotnet\obj\Debug\net6.0\Testando Dotnet.genruntimeconfig.cache
